@@ -1,0 +1,1 @@
+A service to create avatar based on name initials.
